@@ -22,7 +22,9 @@ function formatArrayStrings(strings, numbers) {
 
 num = processArray([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
 
-stringArray = ['hello', 'world', 'this', 'is', 'a', 'test'];
+stringArray = ["Hawa", "Akosua", "Kwasi", "Abena", "Smith", "Akua", "Kwabena"];
 
-formatArrayStrings(stringArray, num);
+formatArrayStrings(stringArray, num); 
+
+// returend array is ['hawa', 'AKOSUA', 'kwasi', 'ABENA', 'smith', 'AKUA', 'kwabena']
 
